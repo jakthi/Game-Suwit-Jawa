@@ -1,7 +1,5 @@
 document.body.style.backgroundImage = 'url(background.jpg)';
 document.body.style.backgroundSize = 'cover';
-document.body.style.backgroundRepeat = 'no-repeat';
-document.body.style.backgroundPosition = 'center center';
 
 {
     const header = document.createElement('h1');
